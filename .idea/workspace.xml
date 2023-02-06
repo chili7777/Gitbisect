@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="044bddd9-bea5-44fc-8548-931b7d507a88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BisectCapacitacion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GitBisectCapacitacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GitBisectCapacitacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GitBisectCapacitacion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675720763980</updated>
-      <workItem from="1675720765122" duration="60000" />
+      <workItem from="1675720765122" duration="118000" />
     </task>
     <servers />
   </component>
